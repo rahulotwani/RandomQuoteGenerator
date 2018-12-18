@@ -1,0 +1,60 @@
+#title {
+	text-align: center;
+	margin: auto;
+	padding-top: 7%;
+	padding-bottom: 5%;
+	text-transform: capitalize;
+	font-family: "Fredoka One", cursive;
+}
+
+#main {
+	text-align: center;
+	width: 50%;
+	border: 2px solid red;
+	border-radius: 30px;
+	background-color: #e4e4a6;
+}
+
+#quote {
+	font-size: 2.5em;
+	font-family: "acme", sans-serif;
+}
+
+#author {
+	text-align: right;
+	font-family: "Concert One", cursive;
+}
+#input{
+	margin-top:2em;
+
+	font-family:"Fredoka One";
+	font-size:1.5em;
+}
+#num{
+	background-color: #e4e4a6;
+	border-radius:20px;
+	border-color:red;
+}
+
+.container {
+	padding: 3%;
+}
+
+body {
+	background-color: #667ed0d4;
+}
+
+.btn-block {
+	margin-top: 5%;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Fredoka One", cursive;
+	width: 30%;
+	text-align: center;
+	opacity:0.5;
+	background-color: #7015b9;
+}
+
+div {
+	text-align: center;
+}
