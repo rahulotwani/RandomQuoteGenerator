@@ -1,2 +1,2 @@
 # RandomQuoteGenerator
-Generates a random quote for you
+Generates a random quote on input of a lucky number
