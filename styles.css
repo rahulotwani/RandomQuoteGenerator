@@ -10,18 +10,18 @@
 #main {
 	text-align: center;
 	width: 50%;
-	border: 2px solid red;
-	border-radius: 30px;
-	background-color: #e4e4a6;
+	border: 10px solid black;
+	border-radius: 20px;
+	background-color: red;
 }
 
 #quote {
 	font-size: 2.5em;
-	font-family: "acme", sans-serif;
+	font-family: "acme", serif;
 }
 
 #author {
-	text-align: right;
+	text-align: left;
 	font-family: "Concert One", cursive;
 }
 #input{
@@ -42,6 +42,7 @@
 
 body {
 	background-color: #667ed0d4;
+	gradient : tilt;
 }
 
 .btn-block {
